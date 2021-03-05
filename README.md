@@ -1,2 +1,3 @@
 # lab-session
-New content added to test pull..."
+New content added to test pull...
+Added line to check fetch
